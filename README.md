@@ -3,6 +3,12 @@
 Vaporwave Endurance is a tower defense game but reinterpreted in a first person perspective with a vaporwave touch. The game is based on rounds and each round will be harder. You must defend your tower by killing enemies with your cannon.
 The game was developed for the course of Interactive Graphics at Sapienza University of Rome.
 
+## Summary
+- [Getting Started](#getting_started)
+- [Built with](#built-with)
+- [Authors](#authors)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -24,3 +30,9 @@ To learn more about the project, you can read the [documentation](documentation.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+- Billie Thompson - Provided README Template - [PurpleBooth](https://github.com/PurpleBooth)
+
+
